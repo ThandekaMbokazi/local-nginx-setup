@@ -6,6 +6,6 @@
     <application id="gnome-initial-setup.desktop" score="9" last-seen="1772522797"/>
     <application id="org.gnome.Settings.desktop" score="4" last-seen="1772544504"/>
     <application id="update-manager.desktop" score="1" last-seen="1772701122"/>
-    <application id="org.gnome.Terminal.desktop" score="1343" last-seen="1772710774"/>
+    <application id="org.gnome.Terminal.desktop" score="1592" last-seen="1772712550"/>
   </context>
 </application-state>
